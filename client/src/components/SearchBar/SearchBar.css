@@ -1,0 +1,23 @@
+.search{
+    float: center;
+    border-style: none;
+}
+
+.search button{
+    border-radius: 10px;
+    background-color: rgb(255, 154, 171);
+    color: brown;
+    border: none;
+    height: 30px;
+}
+
+.search button:hover{
+    background-color: rgb(255, 154, 171);
+    color: white;
+}
+
+.search input{
+    border-radius: 10px;
+    border: none;
+    height: 30px;
+}

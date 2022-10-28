@@ -1,0 +1,8 @@
+.divFilter select {
+    background-color: lightpink;
+    border-radius: 20px;
+    height: 2rem;
+    width: 10rem;
+    margin: 0.2rem;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}

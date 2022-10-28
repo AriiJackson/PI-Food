@@ -1,0 +1,19 @@
+#home {
+    margin-top: 0%;
+    margin-left: 0%;
+    margin-right: 0%;
+}
+
+#home div {
+    margin-bottom: 3%;
+}
+
+.divCard {
+    display: flex;
+    justify-content: center;
+}
+
+.gridCard {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}

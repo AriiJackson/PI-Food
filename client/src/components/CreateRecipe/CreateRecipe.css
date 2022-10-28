@@ -1,0 +1,57 @@
+h2 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: brown;
+    background-color: rgba(255, 182, 193, 0.562);
+    align-content: center;
+    margin-left: 40%;
+    margin-right: 40%;
+    border-radius: 20px;
+}
+
+label {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: brown;
+}
+
+input, select {
+    border-radius: 10px;
+    border: none;
+    width: 30%;
+    height: 30px;
+    margin: 2%;
+}
+
+textarea {
+    height: 80px;
+    border-radius: 20px;
+    border: none;
+    width: 50%;
+    margin: 2%;
+}
+
+#idForm {
+    background-color: rgba(255, 182, 193, 0.63);
+    margin: 2% 2% 5% 2%;
+    border-radius: 20px;
+    border-style: inset;
+    border-color: brown;
+}
+
+.danger{
+    color: red;
+}
+
+.btnCreate {
+    margin: 3%;
+}
+
+.divDiets li {
+    list-style-type: none;
+    display: inline-block;
+}
+
+.btnx {
+    margin: 1%;
+    width: 30px;
+    height: 30px;
+}

@@ -1,0 +1,29 @@
+.paginado {
+    list-style-type: none;
+    display: flex;
+    float: none;
+    justify-items: center;
+}
+
+.number {
+    display: inline;
+    justify-items: center;
+    bottom: 20px;
+    width: 100%;
+    margin-left: 1rem;
+    margin-right: 1rem;
+    background-color: lightpink;
+    border-radius: 20px;
+}
+
+.paginado a:hover{
+    background-color: rgba(255, 0, 140, 0.267);
+    padding-left: 35px;
+    padding-right: 35px;
+    border-radius: 20px;
+    cursor: pointer;
+}
+
+.paginado a:focus {
+    background-color: rgba(255, 0, 140, 0.267);
+}

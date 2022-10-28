@@ -1,0 +1,40 @@
+#nav {
+    background-color: rgba(255, 182, 193, 0.815);
+}
+
+#nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+#nav ul li {
+    display: inline;
+    padding: 10px;
+}
+
+#nav ul li a {
+    display: inline-block;
+    padding: 10px;
+    text-decoration: none;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: brown;
+}
+
+.navList:hover {
+    background-color: rgb(255, 154, 171);
+}
+
+.navHeader {
+    float: right;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: brown;
+    font-size: x-large;
+    font-weight: bold;
+}
+
+.navList{
+    float: left;
+    margin: 0%;
+    padding: 0%;
+}
